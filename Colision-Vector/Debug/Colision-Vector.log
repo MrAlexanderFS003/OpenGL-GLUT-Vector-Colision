@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Programación Vacacional\GitHub\Colision-Vector\Colision-Vector\main.cpp(41,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Programación Vacacional\GitHub\Colision-Vector\Colision-Vector\main.cpp(49,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Programación Vacacional\GitHub\Colision-Vector\Colision-Vector\main.cpp(62,20): warning C4018: '<': no coinciden signed/unsigned
+  Colision-Vector.vcxproj -> C:\Programación Vacacional\GitHub\Colision-Vector\Debug\Colision-Vector.exe
